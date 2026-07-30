@@ -9,12 +9,13 @@
 ---
 
 ## Summary
-
-![](./profile-summary-card-output/radical/0-profile-details.svg)
-![](./profile-summary-card-output/radical/1-repos-per-language.svg)
-![](./profile-summary-card-output/radical/2-most-commit-language.svg)
-![](./profile-summary-card-output/radical/3-stats.svg)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrontWorksDev&theme=radical&utcOffset=9)
+<p align="center">
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrontWorksDev&theme=radical&utcOffset=9" />
+</p>
 
 ## ⏱ Weekly Coding Stats
 <!--START_SECTION:waka-->
