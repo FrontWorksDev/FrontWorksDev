@@ -15,3 +15,7 @@
 ![](./profile-summary-card-output/radical/2-most-commit-language.svg)
 ![](./profile-summary-card-output/radical/3-stats.svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrontWorksDev&theme=radical&utcOffset=9)
+
+## ⏱ Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
