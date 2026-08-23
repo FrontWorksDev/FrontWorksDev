@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,39 +52,39 @@ Sunday                   238 commits         ███████████�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Astro                    2 hrs 28 mins       ███████████████████░░░░░░   76.08 % 
-TypeScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Astro                    2 hrs 28 mins       █████████████████░░░░░░░░   68.66 % 
+TypeScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 9 mins        ████████████████████████░   97.31 % 
-Neovim                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Claude Code              3 hrs 30 mins       ████████████████████████░   97.57 % 
+Neovim                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (98.07%)
+⏱ AI Coding Time: 3 hrs 31 mins (98.26%)
 
 ✍️ 311 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 630,574 Input Tokens, 178,388 Output Tokens
+🔤 637,038 Input Tokens, 179,670 Output Tokens
 
-💵 $27.60 Estimated AI Cost This Week
+💵 $27.91 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 32 AI Prompts
+🧠 5 AI Sessions, 47 AI Prompts
 
 Opus                     338 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 757 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 785 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -103,5 +103,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FrontWorksDev/FrontWorksDev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 00:09:46 UTC
+ Last Updated on 23/08/2026 00:09:36 UTC
 <!--END_SECTION:waka-->
