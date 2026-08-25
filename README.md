@@ -19,73 +19,11 @@
 
 ## ⏱ Weekly Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-🌆 Daytime                241 commits         █████████████░░░░░░░░░░░░   51.83 % 
-🌃 Evening                158 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Wednesday                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Thursday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Friday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Saturday                 72 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Sunday                   238 commits         █████████████░░░░░░░░░░░░   51.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Astro                    2 hrs               ███████████████░░░░░░░░░░   58.22 % 
-Other                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-PHP                      36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 26 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 26 mins (100.0%)
-
-✍️ 229 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 603,022 Input Tokens, 77,667 Output Tokens
-
-💵 $23.44 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 64 AI Prompts
-
-Opus                     250 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 255 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -102,5 +40,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FrontWorksDev/FrontWorksDev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 00:09:40 UTC
+ Last Updated on 25/08/2026 00:09:40 UTC
 <!--END_SECTION:waka-->
