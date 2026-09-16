@@ -25,6 +25,69 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌆 Daytime                241 commits         █████████████░░░░░░░░░░░░   51.83 % 
+🌃 Evening                158 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
+🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Wednesday                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Thursday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Friday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Saturday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Sunday                   238 commits         █████████████░░░░░░░░░░░░   51.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Astro                    1 hr 4 mins         █████████████░░░░░░░░░░░░   50.29 % 
+TypeScript               55 mins             ███████████░░░░░░░░░░░░░░   43.30 % 
+PHP                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+Claude Code              2 hrs 7 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 7 mins (100.0%)
+
+✍️ 457 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 575,239 Input Tokens, 116,860 Output Tokens
+
+💵 $29.05 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 26 AI Prompts
+
+Sonnet                   489 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 742 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -40,5 +103,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FrontWorksDev/FrontWorksDev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 00:18:20 UTC
+ Last Updated on 16/09/2026 00:16:43 UTC
 <!--END_SECTION:waka-->
