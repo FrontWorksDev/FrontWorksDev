@@ -19,9 +19,9 @@
 
 ## ⏱ Weekly Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,19 +52,41 @@ Sunday                   238 commits         ███████████�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               54 mins             ██████████░░░░░░░░░░░░░░░   39.04 % 
+Astro                    46 mins             ████████░░░░░░░░░░░░░░░░░   33.45 % 
+Markdown                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+PHP                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Diff                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 19 mins (100.0%)
+
+✍️ 1,707 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,033,179 Input Tokens, 86,568 Output Tokens
+
+💵 $18.23 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 37 AI Prompts
+
+Opus                     1,337 lines         ████████████████████░░░░░   78.14 % 
+Sonnet                   374 lines           █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,157 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,5 +104,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FrontWorksDev/FrontWorksDev/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 00:19:07 UTC
+ Last Updated on 22/09/2026 00:17:38 UTC
 <!--END_SECTION:waka-->
