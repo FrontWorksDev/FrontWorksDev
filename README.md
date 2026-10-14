@@ -19,9 +19,9 @@
 
 ## ⏱ Weekly Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,42 +52,42 @@ Sunday                   238 commits         ███████████�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-PHP                      1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-JavaScript               1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-Other                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Astro                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+TypeScript               3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+PHP                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+JavaScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Astro                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 50 mins       ███████████████████████░░   93.60 % 
-Neovim                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Chrome                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Claude Code              7 hrs 4 mins        ███████████████████░░░░░░   77.39 % 
+Neovim                   2 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Chrome                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      5 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 51 mins (94.02%)
+⏱ AI Coding Time: 7 hrs 22 mins (80.79%)
 
-✍️ 503 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 642 lines written by AI, 253 lines written by hand (71.73% AI-written)
 
-🔤 1,583,803 Input Tokens, 592,405 Output Tokens
+🔤 1,746,356 Input Tokens, 724,046 Output Tokens
 
-💵 $65.00 Estimated AI Cost This Week
+💵 $72.84 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 129 AI Prompts
+🧠 13 AI Sessions, 229 AI Prompts
 
-Sonnet                   610 lines           █████████████████████████   100.00 % 
+Sonnet                   783 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 890 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 71.73% of written lines came from AI
+📝 Concise Prompter — average 419 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 33.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,5 +105,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FrontWorksDev/FrontWorksDev/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 04:54:27 UTC
+ Last Updated on 14/10/2026 03:01:16 UTC
 <!--END_SECTION:waka-->
