@@ -52,25 +52,25 @@ Sunday                   238 commits         ███████████�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
-Other                    1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-PHP                      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-JavaScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Astro                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+TypeScript               3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
+Other                    1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+PHP                      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+JavaScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Astro                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 22 mins       ███████████████████░░░░░░   77.84 % 
-Neovim                   2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Chrome                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Claude Code              7 hrs 22 mins       ████████████████████░░░░░   78.84 % 
+Neovim                   1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Chrome                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      9 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 41 mins (81.12%)
+⏱ AI Coding Time: 7 hrs 41 mins (82.17%)
 
 ✍️ 642 lines written by AI, 253 lines written by hand (71.73% AI-written)
 
@@ -105,5 +105,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FrontWorksDev/FrontWorksDev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 02:41:35 UTC
+ Last Updated on 16/10/2026 02:37:19 UTC
 <!--END_SECTION:waka-->
