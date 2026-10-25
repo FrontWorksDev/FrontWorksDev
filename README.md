@@ -52,41 +52,41 @@ Sunday                   238 commits         ███████████�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 31 mins       █████████████░░░░░░░░░░░░   53.18 % 
-Rust                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-PHP                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Markdown                 3 hrs 31 mins       █████████████░░░░░░░░░░░░   53.28 % 
+Rust                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+PHP                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 32 mins       █████████████████████████   98.58 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Claude Code              6 hrs 32 mins       █████████████████████████   98.70 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 💻 Operating System: 
-Mac                      6 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 35 mins (99.19%)
+⏱ AI Coding Time: 6 hrs 34 mins (99.31%)
 
-✍️ 11,780 lines written by AI, 42 lines written by hand (99.64% AI-written)
+✍️ 11,780 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 3,115,666 Input Tokens, 1,066,757 Output Tokens
+🔤 3,114,640 Input Tokens, 1,066,201 Output Tokens
 
-💵 $73.00 Estimated AI Cost This Week
+💵 $72.97 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 174 AI Prompts
+🧠 12 AI Sessions, 172 AI Prompts
 
 Opus                     6,392 lines         █████████████░░░░░░░░░░░░   53.88 % 
 Sonnet                   5,472 lines         ████████████░░░░░░░░░░░░░   46.12 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
-📚 Verbose Prompter — average 3,472 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 3,508 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +104,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FrontWorksDev/FrontWorksDev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 02:48:45 UTC
+ Last Updated on 25/10/2026 02:39:50 UTC
 <!--END_SECTION:waka-->
