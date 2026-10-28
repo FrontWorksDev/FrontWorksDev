@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,39 +52,39 @@ Sunday                   238 commits         ███████████�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     47 mins             ███████████████░░░░░░░░░░   60.92 % 
-TOML                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Rust                     47 mins             ████████████████░░░░░░░░░   64.34 % 
+TOML                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔥 Editors: 
-Claude Code              1 hr 16 mins        █████████████████████████   99.94 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              1 hr 12 mins        █████████████████████████   99.93 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (100.0%)
+⏱ AI Coding Time: 1 hr 12 mins (100.0%)
 
 ✍️ 1,619 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 403,719 Input Tokens, 172,247 Output Tokens
+🔤 413,269 Input Tokens, 172,160 Output Tokens
 
-💵 $26.94 Estimated AI Cost This Week
+💵 $27.19 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 30 AI Prompts
+🧠 9 AI Sessions, 30 AI Prompts
 
 Sonnet                   1,619 lines         ████████████████████████░   94.57 % 
 Opus                     93 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,181 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 7,180 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -103,5 +103,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FrontWorksDev/FrontWorksDev/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 03:13:10 UTC
+ Last Updated on 28/10/2026 03:27:06 UTC
 <!--END_SECTION:waka-->
